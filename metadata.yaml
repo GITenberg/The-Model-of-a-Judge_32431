@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33434
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32431#The-Model-of-a-Judge
 gutenberg_issued: '2010-05-19'
 gutenberg_type: Text
 identifiers:
