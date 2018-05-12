@@ -1,0 +1,37 @@
+_repo: The-Model-of-a-Judge_32431
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Burchard
+    gutenberg_agent_id: '35845'
+    url: http://www.gutenberg.org/2009/agents/35845
+covers:
+- cover_type: archival
+  image_path: 32431-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Samachson, Joseph
+    aliases:
+    - Samachson, Joe
+    - Sterling, Brett
+    - Morrison, William
+    birthdate: 1906
+    deathdate: 1980
+    gutenberg_agent_id: '33434'
+    url: http://www.gutenberg.org/2009/agents/33434
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
+description: ''
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Model of a Judge
+url: http://www.gutenberg.org/ebooks/32431
